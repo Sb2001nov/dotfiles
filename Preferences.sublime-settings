@@ -1,0 +1,24 @@
+{
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Default.sublime-theme",
+	"font_face": "CaskaydiaCove NF",
+	"scroll_past_end": false,
+	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.sublime-workspace"],
+	"folder_exclude_patterns": [],
+	"binary_file_patterns": [],
+	"show_line_endings": true,
+	"show_encoding": true,
+	"highlight_modified_tabs": true,
+	"drag_text": false,
+	"copy_with_empty_selection": false,
+	"auto_complete_delay": 0,
+	"spell_check": true,
+	"draw_minimap_border": true,
+	"indent_to_bracket": true,
+	"wrap_width": 110,
+
+}

@@ -1,0 +1,8 @@
+// These settings override both User and Default settings for the Python syntax
+{
+	"line_padding_top": 2,
+    "line_padding_bottom": 2,
+    "auto_complete_delay": 0,
+    "drag_text": false,
+    "draw_minimap_border": true
+}

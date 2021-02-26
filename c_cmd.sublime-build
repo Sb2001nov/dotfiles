@@ -1,0 +1,5 @@
+{
+    "cmd": ["gcc.exe", "-o", "$file_base_name", "$file", "&&", "start", "cmd", "/c", "$file_base_name & echo. & echo. & del $file_base_name.exe & pause"],
+    "shell": true,
+    "selector": "source.c"
+}

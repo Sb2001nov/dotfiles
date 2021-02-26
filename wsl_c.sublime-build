@@ -1,0 +1,5 @@
+{
+  "cmd" : ["bash", "-c", "gcc ${file_name} -o ${file_base_name}", "&&", "start", "cmd", "/c", "bash -c ./$file_base_name & echo. & echo. & del $file_base_name & pause"],
+  "shell": true,
+  "selector": "source.c"
+}
