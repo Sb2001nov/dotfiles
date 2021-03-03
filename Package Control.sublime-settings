@@ -9,10 +9,11 @@
 		"BracketHighlighter",
 		"FileIcons",
 		"Git",
-		"GitGutter",
+		"HTML Boilerplate",
+		"HTML5",
+		"HTMLAttributes",
 		"Monokai++",
 		"Package Control",
-		"PipenvPath",
 		"SideBarEnhancements"
 	]
 }
