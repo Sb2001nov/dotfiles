@@ -5,15 +5,14 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
 		"BracketHighlighter",
+		"EasyClangComplete",
 		"FileIcons",
-		"Git",
-		"HTML Boilerplate",
-		"HTML5",
-		"HTMLAttributes",
-		"Monokai++",
+		"JavaScript & NodeJS Snippets",
+		"Nodejs",
 		"Package Control",
-		"SideBarEnhancements"
+		"Python Completions",
+		"SideBarEnhancements",
+		"Terminus"
 	]
 }
